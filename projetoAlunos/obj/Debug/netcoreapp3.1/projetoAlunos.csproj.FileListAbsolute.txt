@@ -1,0 +1,13 @@
+D:\Users\Patrick Marques\Desktop\Tudo Aqui\Ciências da Computação (Estudos)\Dio\Bootcamps\GFT Star 5 - .NET\Estudos\projeto01_dotNet\projetoAlunos\bin\Debug\netcoreapp3.1\projetoAlunos.exe
+D:\Users\Patrick Marques\Desktop\Tudo Aqui\Ciências da Computação (Estudos)\Dio\Bootcamps\GFT Star 5 - .NET\Estudos\projeto01_dotNet\projetoAlunos\bin\Debug\netcoreapp3.1\projetoAlunos.deps.json
+D:\Users\Patrick Marques\Desktop\Tudo Aqui\Ciências da Computação (Estudos)\Dio\Bootcamps\GFT Star 5 - .NET\Estudos\projeto01_dotNet\projetoAlunos\bin\Debug\netcoreapp3.1\projetoAlunos.runtimeconfig.json
+D:\Users\Patrick Marques\Desktop\Tudo Aqui\Ciências da Computação (Estudos)\Dio\Bootcamps\GFT Star 5 - .NET\Estudos\projeto01_dotNet\projetoAlunos\bin\Debug\netcoreapp3.1\projetoAlunos.runtimeconfig.dev.json
+D:\Users\Patrick Marques\Desktop\Tudo Aqui\Ciências da Computação (Estudos)\Dio\Bootcamps\GFT Star 5 - .NET\Estudos\projeto01_dotNet\projetoAlunos\bin\Debug\netcoreapp3.1\projetoAlunos.dll
+D:\Users\Patrick Marques\Desktop\Tudo Aqui\Ciências da Computação (Estudos)\Dio\Bootcamps\GFT Star 5 - .NET\Estudos\projeto01_dotNet\projetoAlunos\bin\Debug\netcoreapp3.1\projetoAlunos.pdb
+D:\Users\Patrick Marques\Desktop\Tudo Aqui\Ciências da Computação (Estudos)\Dio\Bootcamps\GFT Star 5 - .NET\Estudos\projeto01_dotNet\projetoAlunos\obj\Debug\netcoreapp3.1\projetoAlunos.csprojAssemblyReference.cache
+D:\Users\Patrick Marques\Desktop\Tudo Aqui\Ciências da Computação (Estudos)\Dio\Bootcamps\GFT Star 5 - .NET\Estudos\projeto01_dotNet\projetoAlunos\obj\Debug\netcoreapp3.1\projetoAlunos.AssemblyInfoInputs.cache
+D:\Users\Patrick Marques\Desktop\Tudo Aqui\Ciências da Computação (Estudos)\Dio\Bootcamps\GFT Star 5 - .NET\Estudos\projeto01_dotNet\projetoAlunos\obj\Debug\netcoreapp3.1\projetoAlunos.AssemblyInfo.cs
+D:\Users\Patrick Marques\Desktop\Tudo Aqui\Ciências da Computação (Estudos)\Dio\Bootcamps\GFT Star 5 - .NET\Estudos\projeto01_dotNet\projetoAlunos\obj\Debug\netcoreapp3.1\projetoAlunos.csproj.CoreCompileInputs.cache
+D:\Users\Patrick Marques\Desktop\Tudo Aqui\Ciências da Computação (Estudos)\Dio\Bootcamps\GFT Star 5 - .NET\Estudos\projeto01_dotNet\projetoAlunos\obj\Debug\netcoreapp3.1\projetoAlunos.dll
+D:\Users\Patrick Marques\Desktop\Tudo Aqui\Ciências da Computação (Estudos)\Dio\Bootcamps\GFT Star 5 - .NET\Estudos\projeto01_dotNet\projetoAlunos\obj\Debug\netcoreapp3.1\projetoAlunos.pdb
+D:\Users\Patrick Marques\Desktop\Tudo Aqui\Ciências da Computação (Estudos)\Dio\Bootcamps\GFT Star 5 - .NET\Estudos\projeto01_dotNet\projetoAlunos\obj\Debug\netcoreapp3.1\projetoAlunos.genruntimeconfig.cache
